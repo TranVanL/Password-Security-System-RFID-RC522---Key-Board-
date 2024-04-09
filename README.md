@@ -11,8 +11,8 @@ Users can also enter PassWord to open the door and there is also a buzzer signal
 The door opening system here uses Servo motors.
 
 Keyboard (PB8 -> PB15);
-    RC522 (PA4 -> PA7);
-    I2C_LCD (PB6, PB7)
+     RC522 (PA4 -> PA7);
+     I2C_LCD (PB6, PB7)
 
 Good luck !!! 
            
